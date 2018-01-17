@@ -1,0 +1,36 @@
+1.2: If I call moveDown twice, the object will move down twice. The same thing happens every time I call "moveDown"
+If i call makeInvisible twice, the object will become invisible the first time. The second time, nothing will happen, since the object is already invisible.
+
+1.6: If I write a color without the quotes, an error occurs
+
+1.9: You must create the objects, then change their positions, colors, and sizes to match the pictures in the book.
+There are an infinite number of ways that one could acheive the same outcome in this situation.
+
+1.14: The picture class simply does everthing that the user did manually in the "figures" project.
+
+1.22: The method reads the variable assigned to the student's name and displays it
+
+1.24: Returns the number of students enrolled in that lab.
+
+1.29:
+Lab class W 3-6 PM
+Instructor: Mr. McTeacherface	Room: 106
+Class List:
+Snow White, student ID: A00234, credits: 24
+Lisa Simpson, student ID: C22044, credits: 56
+Charlie Brown, student ID: A12003, credits: 6
+Number of Students: 3
+
+1.31:
+int
+string
+int
+int
+boolean
+string
+double
+
+1.32: You would have to change the entire circle class
+
+1.36: No, it cannot.
+
